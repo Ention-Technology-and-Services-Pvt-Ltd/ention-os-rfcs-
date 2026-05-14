@@ -1,0 +1,4 @@
+{
+  "name": "Company Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node"
+}
